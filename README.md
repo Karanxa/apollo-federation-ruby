@@ -183,3 +183,6 @@ To support [federated tracing](https://www.apollographql.com/docs/apollo-server/
 ## Maintainers
  * [Rylan Collins](https://github.com/rylanc)
  * [Noa Elad](https://github.com/noaelad)
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:09 -->
